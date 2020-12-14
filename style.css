@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    background-color: lightpink;
+    font-style: normal;
+   
+}
+.press{
+    background-color: white;
+    color: hotpink;
+    font-style: normal;
+    font-weight: bold;
+}
+button:hover{
+    background-color: hotpink;
+    color: white;
+}
+.target{
+    text-align: center;
+    font-size:20px;
+    color: white;
+    background-color: lightpink;
+}
+div {
+  text-align: center;
+  width: 500px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+  background-color: lightpink;
+}
